@@ -1,5 +1,3 @@
-components:
-  terraform:
-    myapp:
-      vars:
-        content: "Hell, this works"
+settings:
+  context:
+    imported_value: "Hell, this works"
